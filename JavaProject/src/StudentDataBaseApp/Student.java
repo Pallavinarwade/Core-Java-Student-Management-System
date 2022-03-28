@@ -8,7 +8,7 @@ public class Student {
 	private String lastName;
 	private int gradeYear;
 	private String studentID;
-	private String courses = null;
+	private String courses = null
 	private int tuitionBalance = 0;
 	private static int costOfCourse = 600;//Static is always true for instance of object and always stays with class
 	private static int id = 1000;//every moment we create new student id ,so that a reason id will be increment
