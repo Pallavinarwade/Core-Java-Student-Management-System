@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Student {
 	
-    private String firstName
+    private String firstName;
 	private String lastName;
 	private int gradeYear;
 	private String studentID;
